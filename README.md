@@ -1,5 +1,5 @@
 <h1 align="center">Govind Pravalik</h1>
-<h3 align="center">Frontend Developer • UI/UX Focused • Problem Solver</h3>
+<h3 align="center">Frontend Developer • Data Analyst • UI/UX Focused • Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pravalika42805&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,13 +11,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India-0A66C2?style=flat-square&logo=googlemaps" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-FF6B6B?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20JavaScript%20%7C%20UI-6C63FF?style=flat-square" alt="Stack" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Data%20Analysis-FF6B6B?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20JavaScript%20%7C%20SQL-6C63FF?style=flat-square" alt="Stack" />
 </p>
 
 ## About Me
 
-I am a passionate frontend developer from India with a strong interest in building responsive, user-friendly, and scalable web experiences. I enjoy transforming ideas into polished digital products with a strong focus on usability, performance, and visual clarity.
+I am a passionate frontend developer and data analyst from India with a strong interest in building responsive, user-friendly, and scalable web experiences while also turning data into meaningful insights. I enjoy transforming ideas into polished digital products and using analytics to support smarter decisions and measurable impact.
 
 I am currently working on <strong>AgriBloom Connect</strong>, an agriculture-focused digital platform designed to improve accessibility, market connectivity, and smarter decision-making in the agricultural ecosystem.
 
@@ -30,6 +30,7 @@ A digital agriculture solution built to connect stakeholders in the farming ecos
 - Marketplace-driven user flows
 - Agriculture-focused product experience
 - Clean and engaging user interface
+- Data-informed product thinking and decision support
 
 Repository: <a href="https://github.com/pravalika42805/Agribloom-connect">Agribloom-connect</a>
 
@@ -40,6 +41,7 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
 - User-centered design approach
 - Practical agri-tech workflow experience
 - Strong focus on usability and digital accessibility
+- Insights-driven user experience optimization
 
 ## Core Skills
 
@@ -51,8 +53,23 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
 - Cross-Browser Compatibility
 - Performance Optimization
 - Data Analysis
-- AI Tools & Workflow Automation
+- Product Thinking
 - Business Insights from Data
+
+## Data Analyst Skills
+
+- SQL and Database Querying
+- Data Cleaning and Transformation
+- Exploratory Data Analysis (EDA)
+- Data Visualization and Reporting
+- Excel for Data Analysis
+- Python for Data Analysis
+- Business Intelligence and Dashboarding
+- KPI Tracking and Performance Monitoring
+- Trend Analysis and Forecasting
+- Data-Driven Decision Making
+- Automation and Process Optimization
+- Insight Communication for Business Use Cases
 
 ## Data & AI Skills
 
@@ -63,6 +80,7 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
 - Machine Learning Fundamentals
 - Data-Driven Decision Making
 - Automation and Process Optimization
+- Analytics-Driven Product Improvement
 
 ## Tech Stack
 
@@ -73,9 +91,9 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
@@ -84,14 +102,15 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
 - Building meaningful frontend products for real-world problems
 - Exploring modern web technologies and scalable interfaces
 - Contributing to agriculture-focused digital solutions
-- Collaborating on innovative, impactful projects
 - Leveraging data insights and AI tools to improve product decisions
+- Analyzing user and business data to drive smarter experiences
 
 ## Collaboration
 
 I am open to collaborating on:
 
 - Web Development Projects
+- Data Analysis and Reporting Projects
 - AI-powered applications
 - Startup and product development
 - Digital transformation initiatives
