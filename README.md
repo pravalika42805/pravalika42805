@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a passionate frontend developer from India with a strong interest in building responsive, user-friendly, and scalable web experiences. I enjoy transforming ideas into polished digital products with a focus on clean UI, intuitive interactions, and performance optimization.
+I am a passionate frontend developer from India with a strong interest in building responsive, user-friendly, and scalable web experiences. I enjoy transforming ideas into polished digital products with a strong focus on usability, performance, and visual clarity.
 
 I am currently working on <strong>AgriBloom Connect</strong>, an agriculture-focused digital platform designed to improve accessibility, market connectivity, and smarter decision-making in the agricultural ecosystem.
 
@@ -50,6 +50,19 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
 - Component-Based Architecture
 - Cross-Browser Compatibility
 - Performance Optimization
+- Data Analysis
+- AI Tools & Workflow Automation
+- Business Insights from Data
+
+## Data & AI Skills
+
+- Python for Data Analysis
+- Data Visualization and Reporting
+- Exploratory Data Analysis (EDA)
+- AI Productivity Tools and Prompt-Based Workflows
+- Machine Learning Fundamentals
+- Data-Driven Decision Making
+- Automation and Process Optimization
 
 ## Tech Stack
 
@@ -59,6 +72,7 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -71,6 +85,7 @@ A smart digital marketplace concept aimed at simplifying the agricultural buying
 - Exploring modern web technologies and scalable interfaces
 - Contributing to agriculture-focused digital solutions
 - Collaborating on innovative, impactful projects
+- Leveraging data insights and AI tools to improve product decisions
 
 ## Collaboration
 
@@ -80,6 +95,7 @@ I am open to collaborating on:
 - AI-powered applications
 - Startup and product development
 - Digital transformation initiatives
+- Data-driven product experiences
 
 ## GitHub Stats
 
